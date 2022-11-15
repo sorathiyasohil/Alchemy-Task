@@ -1,0 +1,27 @@
+.product-list-table{
+    margin-top: 50px;
+}
+
+.product-list-table .MuiPaper-root{
+    border-radius: 12px;
+}
+
+.nav-logo{
+    height: 50px;
+    width: 70px;
+}
+
+.product-btn{
+    padding: 5px 15px;
+}
+
+@media (max-width: 576px) { 
+    .nav-logo{
+        height: 30px;
+        width: 50px;
+    }
+    .product-list-table{
+        margin-top: 20px;
+    }
+ }
+
